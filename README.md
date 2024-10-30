@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Student
 ---------------------
 
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [portfolio](http:/projectspot.dunite.tech/owais)
 * ✉️  You can contact me at [owaisk30383@gmail.com](mailto:owaisk30383@gmail.com)
 * 🧠  I'm learning web pentesting, cloud computing, flutter application development
